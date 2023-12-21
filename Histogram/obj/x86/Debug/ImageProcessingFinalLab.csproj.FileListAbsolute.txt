@@ -1,0 +1,27 @@
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\obj\x86\Debug\Histogram.exe
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\obj\x86\Debug\Histogram.pdb
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\bin\Debug\Histogram.exe
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\bin\Debug\Histogram.pdb
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\obj\x86\Debug\Histogram.Form1.resources
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\obj\x86\Debug\Histogram.Properties.Resources.resources
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csproj.GenerateResource.Cache
+C:\Users\Beshoy\Desktop\New folder\Histogram eq\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csprojResolveAssemblyReference.cache
+E:\Document\Image\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.exe
+E:\Document\Image\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.pdb
+E:\Document\Image\image Processing Final Lab\Histogram\bin\Debug\Histogram.exe
+E:\Document\Image\image Processing Final Lab\Histogram\bin\Debug\Histogram.pdb
+E:\Document\Image\image Processing Final Lab\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csprojResolveAssemblyReference.cache
+E:\Document\Image\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.Form1.resources
+E:\Document\Image\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.Properties.Resources.resources
+E:\Document\Image\image Processing Final Lab\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\bin\Debug\Histogram.exe
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\bin\Debug\Histogram.pdb
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.Form1.resources
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.Properties.Resources.resources
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\ImageProcessingFinalLab.csproj.CopyComplete
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.exe
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\obj\x86\Debug\Histogram.pdb
+C:\Users\HP\Downloads\image Processing Final Lab\image Processing Final Lab\Histogram\bin\Debug\openCV.dll
